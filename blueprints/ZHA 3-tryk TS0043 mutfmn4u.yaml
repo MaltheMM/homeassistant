@@ -1,6 +1,6 @@
 blueprint:
-  name: ZHA TS0043 3-tryk w8jwkczz
-  description: Automate your Tuya TS0043 3 button remote using
+  name: ZHA 3-tryk TS0043 mutfmn4u
+  description: Automate your Tuya TS0043 3 button remote using mutfmn4u
     ZHA events.
   domain: automation
   input:
@@ -10,7 +10,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TZ3000_w8jwkczz
+          manufacturer: _TZ3000_mutfmn4u
           model: TS0043
     button_one_single_press:
       name: Button 1 (single press)
